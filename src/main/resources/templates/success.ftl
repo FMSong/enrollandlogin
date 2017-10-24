@@ -8,14 +8,6 @@
     <title>成功页面</title>
 </head>
 <body>
-<#--    <table>
-        <tr>
-            <td>账号：</td>
-            <td><input type="text" name="acc"></td>
-        </tr>
-    </table>
-    <button>查询</button>
--->
 <table>
 <#list list as ls>
     <tr>
